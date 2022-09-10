@@ -8,6 +8,6 @@ npm start
 - Top navigation bar is implemented with React Router
 - The fetching Restful JSON using axios library
 - The result fetched is dispatched and stored in Redux store under the key user.list
-- The form for editing user information uses Redux Form, after user information is submitted, the updated details is
+- The form for editing user information uses Redux Form, after user information is submitted, the updated details are 
 dispatched and updated to global store user.list. With the feature of Redux, changes will be automatically reflected on screen.
 
